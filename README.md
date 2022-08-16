@@ -16,3 +16,6 @@ https://tyfb.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ty
+
+
+### ©️2019 Run Buddy, Inc
